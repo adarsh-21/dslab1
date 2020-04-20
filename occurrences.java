@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class occurences
+class occurrences
 {
     static void countOccurrences(int arr[], int n, int x)
     {
