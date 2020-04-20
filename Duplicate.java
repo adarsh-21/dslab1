@@ -18,7 +18,7 @@ public class Duplicate {
         for (int i = 0; i <arr.length ; i++) {
          arr[i] = S.nextInt();
         }
-        DuplicateNumbers(arr, n);
+        DuplicateNumbers(arr, n)
 
     }
 }
