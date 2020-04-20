@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class occurances
+class occurences
 {
     static void countOccurrences(int arr[], int n, int x)
     {
@@ -20,6 +20,7 @@ class occurances
         }
         System.out.println("Enter the element you want to find");
         int x = S.nextInt();
+        System.out.println("The element occurred at the following indexes:");
         countOccurrences(arr, n, x);
     }
 } 
